@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Root",
+    "isFolder": true,
+    "items": [
+      {
+        "name": "sem-1",
+        "isFolder": true,
+        "items": [
+          {
+            "name": "hello.cpp",
+            "isFolder": false,
+            "items": null
+          },
+          {
+            "name": "excel",
+            "isFolder": true,
+            "items": [
+              {
+                "name": "my work",
+                "isFolder": true,
+                "items": [
+                  {
+                    "name": "project.xlsx",
+                    "isFolder": false,
+                    "items": null
+                  }
+                ]
+              },
+              {
+                "name": "hello.xlsx",
+                "isFolder": false,
+                "items": null
+              },
+              {
+                "name": "project and my team work.xlsx",
+                "isFolder": false,
+                "items": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hari.jpg",
+        "isFolder": false,
+        "items": null
+      }
+    ]
+  }
+]
